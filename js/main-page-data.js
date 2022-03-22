@@ -1,9 +1,9 @@
 export default [
-  // {
-  //   title: 'fish',
-  //   imageSrc: './images/main/fish.jpg',
-  //   goTo: 'pages/fish.html',
-  // },
+  {
+    title: 'fish',
+    imageSrc: './images/main/fish.jpg',
+    goTo: 'pages/fish.html',
+  },
   {
     title: 'fruits',
     imageSrc: './images/main/fruits.jpg',
@@ -14,11 +14,11 @@ export default [
   //   imageSrc: './images/main/grocery.jpg',
   //   goTo: 'pages/grocery.html',
   // },
-  // {
-  //   title: 'meat',
-  //   imageSrc: './images/main/meat.jpg',
-  //   goTo: 'pages/meat.html',
-  // },
+  {
+    title: 'meat',
+    imageSrc: './images/main/meat.jpg',
+    goTo: 'pages/meat.html',
+  },
   // {
   //   title: 'spices',
   //   imageSrc: './images/main/spices.jpg',
