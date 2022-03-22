@@ -1,4 +1,4 @@
-import mainPage from './main-page-data.js'
+import mainPage from './main-page-data.mjs'
 const main_categories = document.getElementById('main_categories')
 
 for (const item of mainPage) {
